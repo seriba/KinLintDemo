@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     let acceptedByHoundci = "toto"
+    let veryVeryLongVariabeSoLongThatItWontBeAcceptedByHoundCi = "VeryLongImmutableVariable"
 
     override func viewDidLoad() {
         super.viewDidLoad()
